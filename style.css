@@ -82,6 +82,7 @@ body {
 }
 
 .budget_expenses {
+	margin-bottom: 10px;
 	background-color: #ff5049;
 }
 
@@ -216,7 +217,6 @@ h2 {
 
 .expenses_title {
 	color: #ff5049;
-	margin-bottom: 15px;
 }
 
 .item {
